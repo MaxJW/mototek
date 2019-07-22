@@ -1,2 +1,2 @@
-# mototek
+# Mototek
 Redesigned local Motorbike Dealership Website
